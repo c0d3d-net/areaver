@@ -1,0 +1,5 @@
+#!/bin/sh
+sudo cp areaver.tar /usr/local/bin/
+cd /usr/local/bin/
+sudo tar -xvpf areaver.tar 
+rm /usr/local/bin/areaver.tar
